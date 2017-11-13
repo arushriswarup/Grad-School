@@ -1,0 +1,1 @@
+﻿Open( 	"/Users/arushriswarup/Documents/GitHub/Graduate-School/stats/Project/AM_AS_data_1_no centre points.jmp" ); Distribution( 	Continuous Distribution( 		Column( :Name( "Residual Y1  (device TTF, hour)" ) ), 		Fit Distribution( Normal( Diagnostic Plot( Median Reference Line( 0 ) ) ) ) 	) );

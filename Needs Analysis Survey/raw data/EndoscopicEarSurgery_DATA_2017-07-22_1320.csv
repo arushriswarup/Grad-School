@@ -1,0 +1,35 @@
+record_id,redcap_survey_identifier,survey_1_endoscopic_ear_surgery_needs_assessment_timestamp,percent_of_totally_ees,instrument_set,bleeding,reach,cutting_bone,lens,graft,gripping,instruments,survey_1_endoscopic_ear_surgery_needs_assessment_complete
+1,,2017-04-03 14:32,2,1,76,76,64,77,68,72,N/A,2
+2,,2017-04-21 17:46,3,1,53,83,62,72,93,100,,2
+3,,2017-04-25 8:12,2,1,86,90,61,62,73,65,,2
+4,,2017-04-26 11:55,2,1,,,,7,7,,,2
+5,,2017-04-26 11:57,2,1,20,36,51,52,28,26,,2
+6,,2017-04-27 9:47,2,1,64,91,69,43,23,92,,2
+7,,2017-04-27 10:57,3,1,83,93,69,,57,69,"Suction elevators, should be able to control the amount of suction ",2
+8,,2017-04-27 13:23,3,1,58,40,70,67,56,41,,2
+9,,2017-04-28 9:44,4,1,99,100,100,100,99,100,,2
+10,,2017-04-28 9:45,2,1,19,67,71,33,50,75,,2
+11,,2017-04-28 10:00,3,2,24,98,77,41,69,84,Angled shaft instruments to keep hands from bumping into each other  ,2
+12,,2017-04-28 10:54,2,2,78,94,71,92,91,86,Wondering about adapting flexible endoscope with working port to use in ear surgery?,2
+13,,2017-04-29 4:08,2,1,,94,92,5,5,96,"There is a need for an instrument to reach disease in the mastoid through the canal, keeping the instrument size the same as they are now; may be look at a retractible instrument?",2
+14,,2017-04-29 18:12,4,1,64,90,99,76,50,90,EES bipolar with suction. Endo pen is too wide. Bayonet bipolars do not open. ,2
+15,,2017-05-01 13:21,3,1,,85,,35,36,81,,2
+16,,2017-05-06 12:55,4,1,92,99,61,87,83,92,"Disposable curved and angled suckers.  With the current multiuse suction devices, our sterile services department refuse to clean them due to the very narrow lumen.  Therefore cost-effective disposable instruments would be great.",2
+17,,2017-06-11 20:10,2,1,95,89,,95,,,,2
+18,,2017-06-12 0:45,1,2,,,,,,,,2
+19,,2017-06-15 1:03,1,2,8,86,52,11,49,51,,2
+20,,2017-06-21 8:51,3,1,,100,,,0,100,,2
+21,,2017-06-21 9:12,2,1,100,100,100,100,69,81,#NAME?,2
+22,,2017-06-21 14:30,3,1,68,88,41,10,49,91,,2
+23,,2017-07-22 1:56,3,1,84,100,52,89,50,65,Endoscope holder that can be possible two hand surgery when necessary,2
+24,,2017-07-22 1:58,3,1,,94,86,90,84,93,,2
+25,,2017-07-22 2:14,4,2,96,91,49,95,96,67,,2
+26,,[not completed],4,2,30,99,99,51,100,100,,0
+27,,[not completed],2,1,,,100,100,,100,Combined suction and blunt dissectors. ,0
+28,,2017-07-22 6:04,4,1,48,98,5,50,98,98,,2
+29,,2017-07-22 6:30,2,1,79,49,57,4,5,71,#NAME?,2
+30,,2017-07-22 7:44,3,2,58,84,86,63,57,67,Curved suctions  Bone cutting such as piezoelectric   ,2
+31,,2017-07-22 8:49,2,1,37,41,57,29,28,61,,2
+32,,2017-07-22 9:35,4,1,97,66,15,68,28,75,#NAME?,2
+33,,2017-07-22 9:49,2,2,,64,66,58,82,64,,2
+34,,2017-07-22 10:37,1,1,92,92,,90,,90,Instruments with working angles that can be adjusted.,2
